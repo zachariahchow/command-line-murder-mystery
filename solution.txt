@@ -1,0 +1,8 @@
+grep "CLUE" crimescene
+grep -r "Church" *
+cat interview-699607
+grep -i "L337..9" vehicles
+grep -r "Joe Germuska" *
+grep -r "Jeremy Bowers" *
+
+THE KILLER: Jeremy Bowers
